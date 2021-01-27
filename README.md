@@ -1,31 +1,21 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+## Acerca del proyecto
 
-## About Project
+Un dashboard simple que se crea usando Laravel y Bootstrap. Ayudando al desarrollador a configurar rápidamente su tablero con la funcionalidad básica y común.
 
-Simple dashboard is created using Laravel & Vue.js. It helps the developer to quickly setup their dashboard with the basic and common functionality. Following packages are used: 
 
-- [v-form] (https://github.com/cretueusebiu/vform)
-- [Momentjs library] (https://momentjs.com/):- we can access moment in our application while I used this to format the date. 
-- [Table with pagination] (https://github.com/vuejs/awesome-vue#table)
-- [Vue progress bar] (https://github.com/hilongjw/vue-progressbar)
-- [Sweetalert2] (https://sweetalert2.github.io/)
-- [Admin Lte 3] (https://adminlte.io/themes/v3/index.html)
-- Image Intervention
-- Fontawesome package
-- Laravel Passport
 
-## Installation
+## Instalación
 
-You can install it just like any other project. Don't worry! If you don't know than follow following steps:
-1. First clone the repository using
-2. Go to the project directory and open the cmd.
-3. Run composer install
-4. Run npm install
-5. Create database.
-6. Save .env.example as .env and set your database information in .env
-7. Run php artisan key:generate for creating the application key.
-8. php artisan passport:install
-9. Run php artisan migrate
-10. Its all Done
+Puede instalarlo como cualquier otro proyecto. ¡No se preocupe! Si no lo sabe, siga los siguientes pasos:
+1. Primero clone el repositorio usando
+2. Vaya al directorio del proyecto y abra el cmd.
+3. Ejecute la instalación del compositor
+4. Ejecute npm install
+5. Cree una base de datos.
+6. Guarde .env.example como .env y configure la información de su base de datos en .env
+7. Ejecute php artisan key: generate para crear la clave de la aplicación.
+8. pasaporte artesanal php: instalar
+9. Ejecute php artisan migrate
+10. Está todo hecho
 
-- Admin Login credentials:- email: info@example.com  ,  password: 11223344
+- Credenciales de inicio de sesión de administrador: - correo electrónico: info@example.com, contraseña: 11223344
