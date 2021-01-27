@@ -2,7 +2,18 @@
 
 Un dashboard simple que se crea usando Laravel y Bootstrap. Ayudando al desarrollador a configurar rápidamente su tablero con la funcionalidad básica y común.
 
+## Versiones anteriores al producto final
 
+Aunque este no es el producto final, se llevo acabo distinas versiones:
+
+Siendo esta la primera version
+![example1.png](https://github.com/Armin716/maquinadosaeme/blob/master/example1.png)
+
+Esta la segunda version
+![example2.png](https://github.com/Armin716/maquinadosaeme/blob/master/example2.png)
+
+Y esta la tercera antes del producto final
+![example3.gif](https://github.com/Armin716/maquinadosaeme/blob/master/example3.gif)
 
 ## Instalación
 
